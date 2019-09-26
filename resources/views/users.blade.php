@@ -15,7 +15,7 @@
     			<thead>
                     <tr>
         				<td>S.No</td>
-        				<td>First Name</td>
+        				<td>First Names</td>
         				<td>Last Name</td>
         				<td>Phone Number</td>
         				<td>date of birth</td>
